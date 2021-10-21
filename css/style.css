@@ -573,7 +573,7 @@ footer ul.icon li {
     }
     footer ul:first-of-type li {
         font-size: 1em;
-        margin-left: 1em;
+       margin-left: .5em;
     }
     .shopcart {
         top: 14% !important;
