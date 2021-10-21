@@ -194,6 +194,7 @@ header .header_layer .content a {
     top: 25%;
     left: 10%;
     width: 39%;
+    z-index: 2;
 }
 
 .quality img.tea {
@@ -420,22 +421,23 @@ footer ul.icon li {
         font-size: 3.5rem !important;
     }
     .quality .txt p {
-        font-size: .6em !important;
+        font-size: 12px !important;
     }
     .menu .menubox {
         padding: 5px !important;
     }
     .quality .txt {
         top: 41% !important;
+        left: 1% !important;
     }
     .menu .menubox .content .best {
         margin-left: 0!important;
     }
     .menu .menubox .content .info h3 {
-        font-size: .8em !important;
+        font-size: 12px!important;
     }
     .menu .menubox .content .info p {
-        font-size: .7em !important;
+        font-size: 12px !important;
         width: 100% !important;
     }
     .menu .menubox .content .info .cart {
@@ -452,7 +454,7 @@ footer ul.icon li {
         font-size: .7em !important;
     }
     footer ul:first-of-type li {
-        font-size: .8em !important;
+        font-size: 12px !important;
     }
     .shopcart {
         top: 14% !important;
@@ -462,7 +464,7 @@ footer ul.icon li {
         top: 80px !important;
     }
     .shopcart table tr td {
-        font-size: .6em !important;
+        font-size: 12px !important;
     }
     .shopcart .content tr td input {
         width: 20px !important;
@@ -503,12 +505,13 @@ footer ul.icon li {
     }
     .quality .txt {
         top: 35%;
+        left: 1%;
     }
     .quality .txt h1 {
         font-size: 1.2rem;
     }
     .quality .txt p {
-        font-size: .8em;
+        font-size: 12px;
     }
     .quality img.strubry {
         top: 81px;
@@ -527,7 +530,7 @@ footer ul.icon li {
         font-size: 1.2em;
     }
     .enjoy .text p {
-        font-size: .9em;
+        font-size: 12px;
     }
     .menu .menubox {
         padding: 5px !important;
@@ -540,10 +543,10 @@ footer ul.icon li {
         margin-left: 0!important;
     }
     .menu .menubox .content .info h3 {
-        font-size: .8em !important;
+        font-size: 12px !important;
     }
     .menu .menubox .content .info p {
-        font-size: .7em !important;
+        font-size: 12px !important;
         width: 100% !important;
     }
     .menu .menubox .content .info .cart {
@@ -560,7 +563,7 @@ footer ul.icon li {
         font-size: 1em;
     }
     .footer_part1 .txt p {
-        font-size: .8em;
+        font-size: 12px;
         width: 200px;
     }
     footer ul:first-of-type li {
@@ -575,7 +578,7 @@ footer ul.icon li {
         top: 80px;
     }
     .shopcart table tr td {
-        font-size: .6em;
+        font-size: 12px;
     }
     .shopcart .content tr td input {
         width: 20px;
