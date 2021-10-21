@@ -402,7 +402,10 @@ footer ul.icon li {
     text-align: center;
 }
 
-.shopcart .content .totalItemsPrice,
+.shopcart .content .totalItemsPrice {
+    font-size: 1em;
+}
+
 .shopcart .content table span.total_price {
     font-size: 1.5em;
 }
@@ -429,6 +432,7 @@ footer ul.icon li {
     .quality .txt {
         top: 41% !important;
         left: 1% !important;
+        width: 80% !important;
     }
     .menu .menubox .content .best {
         margin-left: 0!important;
@@ -506,12 +510,13 @@ footer ul.icon li {
     .quality .txt {
         top: 35%;
         left: 1%;
+        width: 80%;
     }
     .quality .txt h1 {
         font-size: 1.2rem;
     }
     .quality .txt p {
-        font-size: 12px;
+        font-size: .8em;
     }
     .quality img.strubry {
         top: 81px;
